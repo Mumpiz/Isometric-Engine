@@ -5,4 +5,5 @@ An Isomatric Engine for BMax called SimpleIso. With proper depht sorting, collis
 Or watch a short Video on Youtube:
 
 Depth sorting: https://www.youtube.com/watch?v=M_Yb8Tgopec&feature=youtu.be
+
 Animated objects and Pathfinding: https://www.youtube.com/watch?v=K9Cg5mKZDQk&feature=youtu.be&hd=1
